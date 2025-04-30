@@ -2,7 +2,7 @@
 
 **I find patterns, build solutions, and chase impact through data.**
 
-Whether it’s mapping out crash risks across NYC or building ML tools to detect Alzheimer’s early, I live for that *"wait… we can solve this?"* moment. I'm obsessed with connecting the dots between raw data and real-world change — and learning something new every time I do it.
+I live for that *"wait… we can solve this?"* moment. I'm obsessed with connecting the dots between raw data and real-world change, AND learning something new every time I do it.
 
 ---
 
@@ -10,7 +10,7 @@ Whether it’s mapping out crash risks across NYC or building ML tools to detect
 
 ✨ I love:
 - Digging into complex data and finding meaning
-- Building usable, scalable tools — not just shiny models
+- Building usable, scalable tools, not just shiny models
 - Tackling problems that matter to real people
 - Picking up new tech like it’s a puzzle I *have* to solve
 
@@ -36,7 +36,7 @@ Whether it’s mapping out crash risks across NYC or building ML tools to detect
 → Focused on scalability, stakeholder alignment, and future monitoring.
 
 ### 🚦 NYC Pedestrian Safety Analytics  
-*Mapped 3 years of crash data to spot danger zones in Manhattan.*  
+*Mapped 3 years of crash data to spot danger zones in NYC.*  
 → Used geospatial tools to recommend Vision Zero policy changes.  
 → Planning real-time dashboards for urban planning.
 
@@ -53,13 +53,13 @@ Whether it’s mapping out crash risks across NYC or building ML tools to detect
 Python (pandas, NumPy, scikit-learn, PyTorch), SQL, R, JavaScript  
 
 **Frameworks & APIs:**  
-FastAPI, Flask, Django, React.js, REST  
+FastAPI, Flask, React.js, REST  
 
 **Visualization & Storytelling:**  
 Tableau, Power BI, matplotlib, seaborn, ggplot2, GeoPandas  
 
 **Dev & Cloud:**  
-Docker, Git/GitHub, AWS (S3, Lambda), PostgreSQL, Firebase
+Docker, Git/GitHub, AWS (S3, Lambda), PostgreSQL
 
 **Soft Skills That Hit:**  
 Communication, DEI-aligned leadership, cross-team coordination, conflict resolution
@@ -71,8 +71,8 @@ Communication, DEI-aligned leadership, cross-team coordination, conflict resolut
 I’m constantly leveling up — right now I’m diving into:
 - Real-time ML monitoring + MLOps
 - Explainability + fairness in predictive systems
-- Agent-based systems for brand strategy
-- Interactive dashboards that *actually* make sense
+- Agent-agents for Mental Health Support
+- Interactive dashboards that *actually* make sense, and can update real-time
 
 ---
 
@@ -82,7 +82,7 @@ I’m exploring **full-time roles** in:
 - Data Science / ML Engineering  
 - Applied Analytics & Insight Strategy
 - Solutions Architect
-- Research + Development with real-world deployment
+- Accessible Software/Application Development
 
 I want to work on *stuff that matters* — with teams that think critically, build thoughtfully, and ship responsibly.
 
