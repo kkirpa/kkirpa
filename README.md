@@ -14,7 +14,8 @@ I live for that *"wait… we can solve this?"* moment. I'm obsessed with connect
 - Tackling problems that matter to real people
 - Picking up new tech like it’s a puzzle I *have* to solve
 
-🔗 My goal is to bridge the gap between data science and real-world decisions — whether that’s for clinicians, city planners, or everyday users.
+**My goal is to bridge the gap between cutting-edge Technologies and the humans who actually use it.**
+Whether it's translating the “black box” of AI agents into something stakeholders understand, or building interfaces that connect complex models to real-world impact, I bring the tech down to earth and make it make sense.
 
 ---
 
@@ -79,9 +80,9 @@ I’m constantly leveling up — right now I’m diving into:
 ## 👀 What I’m Looking For
 
 I’m exploring **full-time roles** in:
-- Data Science / ML Engineering  
+- Data Science, Analytics / ML Engineering  
 - Applied Analytics & Insight Strategy
-- Solutions Architect
+- Solutions Architect / Data Consulting
 - Accessible Software/Application Development
 
 I want to work on *stuff that matters* — with teams that think critically, build thoughtfully, and ship responsibly.
