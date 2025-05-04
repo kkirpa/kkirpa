@@ -2,7 +2,7 @@
 
 **I find patterns, build solutions, and chase impact through data.**
 
-I live for that *"wait… we can solve this?"* moment. I'm obsessed with connecting the dots between raw data and real-world change, AND learning something new every time I do it.
+I'm obsessed with connecting the dots between raw data and real-world change, AND learning something new every time I do it.
 
 ---
 
@@ -66,7 +66,7 @@ Communication, DEI-aligned leadership, cross-team coordination, conflict resolut
 
 ---
 
-## My values: Learning Never Stops
+## My future projects
 
 I’m constantly leveling up — right now I’m diving into:
 - Real-time ML monitoring + MLOps
