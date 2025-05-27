@@ -6,7 +6,7 @@ I'm obsessed with connecting the dots between raw data and real-world change, AN
 
 ---
 
-## 🔍 What Drives Me
+## What Drives Me
 
 - Digging into complex data and finding meaning
 - Building usable, scalable tools, not just shiny models
@@ -18,7 +18,7 @@ Whether it's translating the “black box” of AI agents into something stakeho
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## Some of my Project Work:
 
 ### Facial Recognition System
 *Real-time facial ID system using ResNet50 + Attention + Triplet Loss (~95% accuracy).*
@@ -47,7 +47,7 @@ Whether it's translating the “black box” of AI agents into something stakeho
 
 ---
 
-## My Toolbox
+## Skills and Tech Stack
 
 **Languages & Libraries:**  
 Python (pandas, NumPy, scikit-learn, PyTorch), SQL, R, JavaScript  
