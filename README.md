@@ -84,7 +84,7 @@ I’m exploring **full-time roles** in:
 - Solutions Architect / Data Consulting
 - Accessible Software/Application Development
 
-I want to work on *stuff that matters* — with teams that think critically, build thoughtfully, and ship responsibly.
+I want to work on *stuff that matters* , with teams that think critically, build thoughtfully, and ship responsibly.
 
 ---
 
@@ -99,7 +99,7 @@ I want to work on *stuff that matters* — with teams that think critically, bui
 
 ## Connect with me
 
-Reach out if you’re hiring, vibing with my work, or want to nerd out over spatial risk models and BERT-based pipelines.
+Reach out if you’re hiring, vibing with my work, or want to nerd out over new technology developments, pleade feel free to reach out via:
 
 [💼 LinkedIn](https://www.linkedin.com/in/kirpapreet-kaur/) • [🐙 GitHub](https://github.com/kkirpa) • [📫 Email](mailto:kaurkirpapreet4@gmail.com)
 
